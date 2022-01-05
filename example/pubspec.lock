@@ -62,7 +62,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_slidable:
+  flutter_slidable_fork:
     dependency: "direct dev"
     description:
       path: ".."

@@ -1,11 +1,11 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/src/action_pane_motions.dart';
-import 'package:flutter_slidable/src/actions.dart';
-import 'package:flutter_slidable/src/controller.dart';
-import 'package:flutter_slidable/src/dismissible_pane.dart';
-import 'package:flutter_slidable/src/dismissible_pane_motions.dart';
-import 'package:flutter_slidable/src/slidable.dart';
+import 'package:flutter_slidable_fork/src/action_pane_motions.dart';
+import 'package:flutter_slidable_fork/src/actions.dart';
+import 'package:flutter_slidable_fork/src/controller.dart';
+import 'package:flutter_slidable_fork/src/dismissible_pane.dart';
+import 'package:flutter_slidable_fork/src/dismissible_pane_motions.dart';
+import 'package:flutter_slidable_fork/src/slidable.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'common.dart';
